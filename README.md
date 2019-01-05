@@ -12,8 +12,6 @@
 * Week 6: Single Pixel Camera Workshop
 
 
-Projects include: 
-
 ### Course Breakdown:
 
 #### [Week 1: Introduction & Workspace Set-Up](notes/week1.md)
@@ -41,15 +39,10 @@ Projects include:
     * Creating A 3D Enviornment
     * **In-class Exercises/Challenges**: 
 
-#### [Week 3: Primatives](notes/week3.md)
-    * Marker Based Augmented Reality
-    * Custom Markers
-    * Creating A 3D Enviornment
-    * **In-class Exercises/Challenges**: 
-        * Creating a 3d Enviornment
+#### [Week 3: Textures & Animation](notes/week3.md)
 
-#### [Week 4: Textures & Animation](notes/week4.md)
+#### [Week 4: 3D Models](notes/week4.md)
 
-#### [Week 5: 3D Models](notes/week5.md)
+#### [Week 5: Components!](notes/week5.md)
 
 #### [Week 6: Single Pixel Camera](notes/week6.md)
