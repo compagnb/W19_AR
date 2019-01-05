@@ -1,22 +1,55 @@
+## Augmented Reality & Computer Vision
+* Instructor: Barbara Compagnoni
+* Email: compagnb@gmail.com
+* Class Repo: http://www.github.com/compagnb/W19_AR
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+### Course Outline
+* Week 1: Introduction & Workspace Set-Up
+* Week 2: A-Frame & Ar.js
+* Week 3: Primitives
+* Week 4: Textures & Animation
+* Week 5: 3D Models
+* Week 6: Single Pixel Camera Workshop
 
 
-Welcome to your Node.js project on Cloud9 IDE!
+Projects include: 
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+### Course Breakdown:
 
-## Running the server
+#### [Week 1: Introduction & Workspace Set-Up](notes/week1.md)
+* Intro To Our Github Repository
+* Virtual Reality vs Augmented Reality
+* Marker based Augmented Reality
+* Intro To C9.io
+* Web Basics Review
+    * HTML
+    * CSS
+    * JavaScript
+    * Linking External Files
+* **In-class Exercises/Challenges**: 
+    * Set-Up Class Workspace
+    * Build A Basic HTML Structure
+    * Link External Stylesheet in HTML
+    * Link External Stylesheet in CSS
+    * Import JavaScript Libraries
+    * Read A Marker
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
+#### [Week 2: A-FRAME & AR.js](notes/week2.md)
+    * What Is Javascript
+    * A-frame & AR.js
+    * Using Text, Images & Primitives
+    * Creating A 3D Enviornment
+    * **In-class Exercises/Challenges**: 
 
-2) Alternatively you can launch the app from the Terminal:
+#### [Week 3: Primatives](notes/week3.md)
+    * Marker Based Augmented Reality
+    * Custom Markers
+    * Creating A 3D Enviornment
+    * **In-class Exercises/Challenges**: 
+        * Creating a 3d Enviornment
 
-    $ node server.js
+#### [Week 4: Textures & Animation](notes/week4.md)
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+#### [Week 5: 3D Models](notes/week5.md)
+
+#### [Week 6: Single Pixel Camera](notes/week6.md)
